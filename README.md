@@ -1,7 +1,7 @@
 **Portfolio**
+Developed in Angular.js
 
 Main page: 
-
 <img width="1974" alt="Snímek obrazovky 2024-11-19 v 8 24 34" src="https://github.com/user-attachments/assets/807db796-12d2-4474-9ec0-6eb9bb25e74c">
 
 About me page:
